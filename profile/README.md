@@ -1,12 +1,9 @@
 ## Hi there 👋
 
-<!--
+We are [polttaja.fi](https://polttaja.fi), completely open source email alias service that is hosted on AWS using its amazing services like (lambda, SES and so on). 
 
-**Here are some ideas to get you started:**
+## What email alias thing are you talking about?
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
+When you give your email address to a website they might spam into it. That's not a big deal because you can always ask them to drop you out of their newsletter lists. The problem becomes when they share you email to others and they start also sending you unwanted messages. Now you do not have any control of this because there might not be any hints that who even shared the address. This is why email aliases are amazing. 
+
+When you give an alias (for example pdnricx2@polttaja.fi) to a company they do not know your real email. This alias forwards the company's messages to your real mailbox yourname@example.com. You can anytime freeze an alias which means that you stop receiving those annoying emails. 
